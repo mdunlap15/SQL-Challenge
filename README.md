@@ -1,6 +1,6 @@
 # SQL-Challenge
 
-This repository contains my files for the SQL Challenge homework:
+The EmployeeSQL folder in this repository contains my files for the SQL Challenge homework:
 
 1. Database ERD image
 2. SQL file for table schemata
